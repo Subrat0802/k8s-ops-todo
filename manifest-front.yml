@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: subrat08/frontend16:v2
+          image: subrat08/frontend16:v3
           ports:
             - containerPort: 5173
 ---
